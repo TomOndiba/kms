@@ -36,7 +36,7 @@ class KmsPlatformsConfig {
 		),
 		'training' => array(
 			'modules' => array(
-				'group3s','dokuwiki','blog1'
+				'group3s','dokuwiki','blog1','moodle'
 			)
 		)		
 	);
