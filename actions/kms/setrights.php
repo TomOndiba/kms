@@ -14,3 +14,4 @@ else
 }
 
 $user->save();
+elgg_trigger_event('kmsroleupdate', 'user', $user);
